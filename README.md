@@ -4,7 +4,7 @@
 
 ### 安装textblob
 
-textblob是python的一个开源处理库，它项目地址为：[https://github.com/sloria/TextBlob](https://github.com/sloria/TextBlob)
+textblob是python的一个开源处理库，它的项目地址为：[https://github.com/sloria/TextBlob](https://github.com/sloria/TextBlob)
 
 使用命令，进行安装
 
@@ -69,7 +69,7 @@ print("本次共输出"+str(i+1)+"行数据，全部操作完成！")
 
 在调用textblob时，可能会出现以下错误：
 
-![image-20211216161536739](/Users/yuleng/Library/Application Support/typora-user-images/image-20211216161536739.png)
+![image-20211216161536739](https://file.blog.yuleng.top/image/2021/12/image-20211216161536739.png)
 
 由于textblob会依赖于NLTK的一些东西，在运行程序时，由于电脑内并没有，便需要下载。由于在线安装不稳定，推荐去官网下载离线包进行安装。
 
