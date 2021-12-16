@@ -4,7 +4,7 @@
 
 ### 安装textblob
 
-textblob是python的一个开源处理库，它在项目地址为：[https://github.com/sloria/TextBlob](https://github.com/sloria/TextBlob)
+textblob是python的一个开源处理库，它项目地址为：[https://github.com/sloria/TextBlob](https://github.com/sloria/TextBlob)
 
 使用命令，进行安装
 
